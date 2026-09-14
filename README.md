@@ -8,6 +8,9 @@ This project analyzes network traffic flows from the Unicauca dataset using expl
 
 ## Dataset
 
+Following dataset was used
+https://www.kaggle.com/datasets/jsrojas/ip-network-traffic-flows-labeled-with-87-apps
+
 | Property | Value |
 |---|---:|
 | Original observations | 3,577,296 |
