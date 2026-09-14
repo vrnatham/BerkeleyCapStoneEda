@@ -1,0 +1,2 @@
+Method,Clusters,Adjusted Rand Index,Normalized Mutual Information,Silhouette Score
+MiniBatchKMeans,55,0.03994409252737462,0.14554829790045112,0.24303995080244595
